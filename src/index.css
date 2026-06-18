@@ -1,0 +1,29 @@
+body{
+  background: #f5f7fb;
+}
+
+.card{
+  border:none;
+  border-radius:20px;
+  box-shadow:0 8px 25px rgba(0,0,0,.08);
+}
+
+.card:hover{
+  transform: translateY(-2px);
+}
+
+.btn{
+  border-radius: 12px;
+}
+
+h1,h2,h3,h4{
+  font-weight: 700;
+}
+
+.navbar{
+  background: linear-gradient(
+    135deg,
+    #90c1ee,
+    #e1eb87
+  );
+}
